@@ -3,10 +3,10 @@
   <channel>
     <title>Haiku Mornings</title>
     <description>Write a haiku each morning. Oh, and keep `git` skillz fresh.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 07:09:38 -0800</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 07:09:38 -0800</lastBuildDate>
+    <link>https://jhaaaa.github.io/</link>
+    <atom:link href="https://jhaaaa.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Nov 2019 07:15:26 -0800</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2019 07:15:26 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;of connection, both.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/09/haiku-no-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/09/haiku-no-3/</guid>
+        <link>https://jhaaaa.github.io//2019/11/09/haiku-no-3/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io//2019/11/09/haiku-no-3/</guid>
         
         <category>haiku</category>
         
@@ -37,8 +37,8 @@
 &lt;p&gt;get Frank Ocean. Yeah.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/09/haiku-no-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/09/haiku-no-2/</guid>
+        <link>https://jhaaaa.github.io//2019/11/09/haiku-no-2/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io//2019/11/09/haiku-no-2/</guid>
         
         <category>haiku</category>
         
@@ -56,8 +56,8 @@
 &lt;p&gt;works! What will break next?&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Oct 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2019/10/18/haiku-no-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/18/haiku-no-1/</guid>
+        <link>https://jhaaaa.github.io//2019/10/18/haiku-no-1/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io//2019/10/18/haiku-no-1/</guid>
         
         <category>haiku</category>
         
