@@ -3,10 +3,10 @@
   <channel>
     <title>Haiku Morning</title>
     <description>Write a haiku each morning. Oh, and keep `git` skillz fresh.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Nov 2019 08:03:47 -0800</pubDate>
-    <lastBuildDate>Thu, 14 Nov 2019 08:03:47 -0800</lastBuildDate>
+    <link>https://jhaaaa.github.io</link>
+    <atom:link href="https://jhaaaa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Nov 2019 08:08:22 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 08:08:22 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;controlled by stylesheet.&lt;/p&gt;
 </description>
         <pubDate>Thu, 14 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/14/haiku-no-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/14/haiku-no-5/</guid>
+        <link>https://jhaaaa.github.io/2019/11/14/haiku-no-5/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/11/14/haiku-no-5/</guid>
         
         <category>self</category>
         
@@ -37,8 +37,8 @@
 &lt;p&gt;Imposter Syndrome?&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/09/haiku-no-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/09/haiku-no-4/</guid>
+        <link>https://jhaaaa.github.io/2019/11/09/haiku-no-4/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/11/09/haiku-no-4/</guid>
         
         <category>self</category>
         
@@ -54,8 +54,8 @@
 &lt;p&gt;of connection, both.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/09/haiku-no-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/09/haiku-no-3/</guid>
+        <link>https://jhaaaa.github.io/2019/11/09/haiku-no-3/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/11/09/haiku-no-3/</guid>
         
         <category>magic</category>
         
@@ -73,8 +73,8 @@
 &lt;p&gt;get Frank Ocean. Yeah.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Nov 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2019/11/09/haiku-no-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/09/haiku-no-2/</guid>
+        <link>https://jhaaaa.github.io/2019/11/09/haiku-no-2/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/11/09/haiku-no-2/</guid>
         
         <category>tech</category>
         
@@ -92,8 +92,8 @@
 &lt;p&gt;works! What will break next?&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Oct 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2019/10/18/haiku-no-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/18/haiku-no-1/</guid>
+        <link>https://jhaaaa.github.io/2019/10/18/haiku-no-1/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/10/18/haiku-no-1/</guid>
         
         <category>tech</category>
         
