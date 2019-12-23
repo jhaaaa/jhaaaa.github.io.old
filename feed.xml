@@ -5,9 +5,43 @@
     <description>Write a haiku each morning. Oh, and keep `git` skillz fresh.</description>
     <link>https://jhaaaa.github.io</link>
     <atom:link href="https://jhaaaa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Nov 2019 07:19:03 -0800</pubDate>
-    <lastBuildDate>Fri, 22 Nov 2019 07:19:03 -0800</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2019 07:40:13 -0800</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 07:40:13 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Haiku No. 9</title>
+        <description>&lt;p&gt;Belief that a man&lt;/p&gt;
+
+&lt;p&gt;drops off free gifts in the night.&lt;/p&gt;
+
+&lt;p&gt;Peak entitlement.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 -0800</pubDate>
+        <link>https://jhaaaa.github.io/2019/12/23/haiku-no-9/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/12/23/haiku-no-9/</guid>
+        
+        <category>christmas</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Haiku No. 8</title>
+        <description>&lt;p&gt;Tech will free us from&lt;/p&gt;
+
+&lt;p&gt;our human bounds. Oh wait, tech&lt;/p&gt;
+
+&lt;p&gt;is built by humans.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 -0800</pubDate>
+        <link>https://jhaaaa.github.io/2019/11/25/haiku-no-8/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/11/25/haiku-no-8/</guid>
+        
+        <category>tech</category>
+        
+        
+      </item>
     
       <item>
         <title>Haiku No. 7</title>
