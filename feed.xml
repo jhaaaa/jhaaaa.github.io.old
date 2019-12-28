@@ -5,9 +5,28 @@
     <description>Write a haiku each morning. Oh, and keep `git` skillz fresh.</description>
     <link>https://jhaaaa.github.io</link>
     <atom:link href="https://jhaaaa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Dec 2019 07:40:13 -0800</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 07:40:13 -0800</lastBuildDate>
+    <pubDate>Sat, 28 Dec 2019 14:00:12 -0800</pubDate>
+    <lastBuildDate>Sat, 28 Dec 2019 14:00:12 -0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Haiku No. 10</title>
+        <description>&lt;p&gt;Lost password. Locked out.&lt;/p&gt;
+
+&lt;p&gt;Panic, then strange calm reveals&lt;/p&gt;
+
+&lt;p&gt;the true weight of bytes.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Dec 2019 00:00:00 -0800</pubDate>
+        <link>https://jhaaaa.github.io/2019/12/28/haiku-no-10/</link>
+        <guid isPermaLink="true">https://jhaaaa.github.io/2019/12/28/haiku-no-10/</guid>
+        
+        <category>tech</category>
+        
+        <category>apocalypse</category>
+        
+        
+      </item>
     
       <item>
         <title>Haiku No. 9</title>
